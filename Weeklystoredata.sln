@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ScheduledAuthorizationCaptureVariance", "ScheduledAuthorizationCaptureVariance\ScheduledAuthorizationCaptureVariance.rptproj", "{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.Debug|Default.ActiveCfg = Debug
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.Debug|Default.Build.0 = Debug
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.Debug|Default.Deploy.0 = Debug
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.DebugLocal|Default.Build.0 = DebugLocal
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.Release|Default.ActiveCfg = Release
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.Release|Default.Build.0 = Release
+		{ED2E72FC-C8F1-4FAA-ABDE-C516F9565179}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2D6860-E126-45D5-B832-9BBE1AD5191B}
+	EndGlobalSection
+EndGlobal
